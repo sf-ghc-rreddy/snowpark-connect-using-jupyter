@@ -4,7 +4,7 @@ Run the same PySpark code on either local Apache Spark or Snowflake via Snowpark
 
 ## Prerequisites
 - Conda (Anaconda/Miniconda)
-- Python 3.12
+- Python >=3.11
 - Jupyter
 - For Snowpark Connect: Snowflake account and Snowflake CLI configured
 
