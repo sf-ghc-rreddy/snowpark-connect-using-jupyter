@@ -12,7 +12,7 @@ Run the same PySpark code on either local Apache Spark or Snowflake via Snowpark
 
 Snowpark Connect
 ```bash
-conda create -n snowpark-connect-demo python=3.12
+conda create -n snowpark-connect-demo python=3.11
 conda activate snowpark-connect-demo
 conda install -c conda-forge pyspark matplotlib seaborn jupyter
 pip install snowpark-connect
