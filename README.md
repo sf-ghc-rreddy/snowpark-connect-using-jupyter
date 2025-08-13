@@ -1,4 +1,4 @@
-# Snowpark Connect Jupyter Blog
+# Snowpark Connect Using Jupyter
 
 Run the same PySpark code on either local Apache Spark or Snowflake via Snowpark Connect. This repo contains the notebook `snowpark-connect-jupyter-blog.ipynb` demonstrating a full pipeline: data generation, cleaning/feature engineering, UDFs, and SQL analytics. Switching engines is a single flag change.
 
